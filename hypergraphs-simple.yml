@@ -1,0 +1,17 @@
+name: hypergraphs-simple
+dependencies:
+    - bokeh<2.5
+    - datashader
+    - ipykernel
+    - jupyterlab
+    - numba
+    - pip
+    - python>=3.9
+    - seaborn
+    - pip:
+        - hdbscan
+        - umap-learn[plot]
+        - thisnotthat
+        - vectorizers
+        - networkx
+        - gravis
