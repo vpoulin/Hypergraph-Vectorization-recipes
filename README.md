@@ -18,3 +18,10 @@ THE DATA
 The recipe data can be found here:
 
 *  https://www.cs.cornell.edu/~arb/data/cat-edge-Cooking/
+
+
+GETTING STARTED
+---------------
+* mamba env create -f hypergraphs-simple.yml
+* conda activate hypergraphs-simple
+* python -m ipykernel install --user --name hypergraph_simple --display-name hypergraph_simple
