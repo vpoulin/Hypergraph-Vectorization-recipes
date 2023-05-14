@@ -13,5 +13,5 @@ dependencies:
         - umap-learn[plot]
         - thisnotthat
         - vectorizers
-        - networkx
-        - gravis
+        - hypernetx
+        - igraph
