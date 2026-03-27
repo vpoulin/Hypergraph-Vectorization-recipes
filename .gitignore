@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.venv
+.conda-env
+notebooks/.env
+*.egg-info
